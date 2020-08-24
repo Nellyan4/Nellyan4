@@ -4,6 +4,7 @@
 - 💜 I'm studying at the University of Washington
 - 👨‍🎓 I'm majored in Economics and minored in Informatics
 - 🤔 I'm learning R, SQL, python, and web development
+- 🎸 I love bands! Big fan of Chinese Indi Musics
 
 
 **Project Experience**
