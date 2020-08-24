@@ -10,10 +10,12 @@
 **Project Experience**
 
 - DisasterLive  
+
   A web that fetches disaster news from OCHA api and displayed in React Map.  
   https://disaster-live-d36d1.web.app/
 
 - Study on High School Quality and Income Levels in New York City  
+
   An overall analysis based on NYC income level and education stats.  
   https://nelsony415.shinyapps.io/NYC_education_income_analysis/
   
