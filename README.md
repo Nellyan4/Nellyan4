@@ -11,7 +11,7 @@
 
 - **Hua Psych Survey Platform**
 
-  UX Designer of the survey platform, this helps UW students publish their surveys!
+  UX Designer of the survey platform, this helps UW students publish their surveys!  
   https://hua-psych-survey-platform.web.app/
 
 - **DisasterLive**  
