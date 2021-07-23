@@ -9,6 +9,11 @@
 
 **Project Experience**
 
+- **Hua Psych Survey Platform**
+
+  UX Designer of the survey platform, this helps UW students publish their surveys!
+  https://hua-psych-survey-platform.web.app/
+
 - **DisasterLive**  
 
   A web that fetches disaster news from OCHA api and displayed in React Map.  
