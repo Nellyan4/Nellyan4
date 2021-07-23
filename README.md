@@ -1,10 +1,11 @@
 
 **Greetings!!!**
 
-- 💜 I'm studying at the University of Washington
-- 👨‍🎓 I'm majored in Economics and minored in Informatics
-- 🤔 I'm learning R, SQL, python, and web development
-- 🎸 I love bands! Big fan of Chinese Indi Musics
+- 💜 I graduated from University of Washington, go Huskies!
+- ❤ I'm studying at Carnegie Mellon University, MSPPM-DA program.
+- 👨‍🎓 I majored in Economics and minored in Informatics.
+- 🤔 I'm OK using R, SQL, python.
+- 🎸 I love bands! Big fan of Chinese Indi Musics.
 
 
 **Project Experience**
