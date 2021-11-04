@@ -12,7 +12,7 @@
 
 - **Digitization and Modernization of Keystone Funeral Service**
 
-  Consulting for [Keystone Funeral Services](https://keystonefuneralservice.com/) on digitization and modernization. Perform qualitative and quantitative analysis on 
+  Consulting for [Keystone Funeral Services](https://keystonefuneralservice.com/) on digitization and modernization. Perform qualitative and quantitative analysis on digital technologies and digital marketing aspects of funeral home industry. Offer recommendations on short-term and long-term strategy for the organization.
 
 - **College Stress Test score**
   
@@ -25,11 +25,9 @@
 
 - **DisasterLive**  
 
-  Contributor to a web that fetches disaster news from OCHA api and displayed in React Map.  
-  https://disaster-live-d36d1.web.app/
+  Contributor to a web, [DiasterLive](https://disaster-live-d36d1.web.app/) that fetches disaster news from OCHA api and displayed in React Map.  
 
 - **Study on High School Quality and Income Levels in New York City**  
 
-  Contributor of to overall analysis based on NYC income level and education stats.  
-  https://nelsony415.shinyapps.io/NYC_education_income_analysis/
+  Contributor of to overall [analysis](https://nelsony415.shinyapps.io/NYC_education_income_analysis/) based on NYC income level and education stats.  
   
