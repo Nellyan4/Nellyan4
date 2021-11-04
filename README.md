@@ -12,7 +12,7 @@
 
 - **College Stress Test score**
   
-  Part-time data intern at [The Hill Group, Inc.](https://hillgroupinc.com/) to perform data collection, cleaning, and analysis on College stress score of 4-year Not For-profit Colleges in Pennsylvnia. Following the algorithms and guidelines of 
+  Part-time data intern at [The Hill Group, Inc.](https://hillgroupinc.com/) to perform data collection, cleaning, and analysis on College stress score of 4-year Not For-profit Colleges in Pennsylvnia using data from [IPEDS Data Center](https://nces.ed.gov/ipeds/use-the-data). Following the algorithm and instruction on Appendix A on the book *The College Stress Test: Tracking Institutional Futures across a Crowded Market*.
 
 - **Hua Psych Survey Platform**
 
