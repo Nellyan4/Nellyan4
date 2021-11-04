@@ -28,5 +28,5 @@
 
 - **Study on High School Quality and Income Levels in New York City**  
 
-  •	Collaborated with a group of students to analyze data in two dimensions from NYC open data and IRS to determine correlations between public high school quality and income level, and published the report on [ShinyApps.io](https://nelsony415.shinyapps.io/NYC_education_income_analysis/).
+  Collaborated with a group of students to analyze data in two dimensions from NYC open data and IRS to determine correlations between public high school quality and income level, and published the report on [ShinyApps.io](https://nelsony415.shinyapps.io/NYC_education_income_analysis/).
   
