@@ -8,7 +8,11 @@
 - 🙇‍♂️ I like trying some designs. Dude, if I am good at drawing though, I'd definitely not major in Economics.
 
 
-**Project Experience**
+**Project Experiences**
+
+- **Digitization and Modernization of Keystone Funeral Service**
+
+  Consulting for [Keystone Funeral Services](https://keystonefuneralservice.com/) on digitization and modernization. Perform qualitative and quantitative analysis on 
 
 - **College Stress Test score**
   
@@ -16,16 +20,16 @@
 
 - **Hua Psych Survey Platform**
 
-  UX Designer of the survey platform, this helps UW students publish their surveys!  
+  UX Designer to the Hua Psych Online Survey Platform, which helps the University of Washington students publish their surveys!  
   https://hua-psych-survey-platform.web.app/
 
 - **DisasterLive**  
 
-  A web that fetches disaster news from OCHA api and displayed in React Map.  
+  Contributor to a web that fetches disaster news from OCHA api and displayed in React Map.  
   https://disaster-live-d36d1.web.app/
 
 - **Study on High School Quality and Income Levels in New York City**  
 
-  An overall analysis based on NYC income level and education stats.  
+  Contributor of to overall analysis based on NYC income level and education stats.  
   https://nelsony415.shinyapps.io/NYC_education_income_analysis/
   
