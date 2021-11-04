@@ -18,10 +18,9 @@
   
   Part-time data intern at [The Hill Group, Inc.](https://hillgroupinc.com/) to perform data collection, cleaning, and analysis on College stress score of 4-year Not For-profit Colleges in Pennsylvnia using data from [IPEDS Data Center](https://nces.ed.gov/ipeds/use-the-data). Following the algorithm and instruction on Appendix A on the book *The College Stress Test: Tracking Institutional Futures across a Crowded Market*.
 
-- **Hua Psych Survey Platform**
+- **Hua Psych Online Survey Platform**
 
-  UX Designer to the Hua Psych Online Survey Platform, which helps the University of Washington students publish their surveys!  
-  https://hua-psych-survey-platform.web.app/
+  Worked with a team to develop and launch the [Hua Psychology Online Survey Platform](https://hua-psych-survey-platform.web.app/) for University of Washington students and researchers to efficiently collect research surveys and get results from the desired target group.
 
 - **DisasterLive**  
 
@@ -29,5 +28,5 @@
 
 - **Study on High School Quality and Income Levels in New York City**  
 
-  Contributor of to overall [analysis](https://nelsony415.shinyapps.io/NYC_education_income_analysis/) based on NYC income level and education stats.  
+  •	Collaborated with a group of students to analyze data in two dimensions from NYC open data and IRS to determine correlations between public high school quality and income level, and published the report on [ShinyApps.io](https://nelsony415.shinyapps.io/NYC_education_income_analysis/).
   
