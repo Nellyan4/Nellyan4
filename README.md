@@ -10,6 +10,10 @@
 
 **Project Experience**
 
+- **College Stress Test score**
+  
+  Part-time data intern at [The Hill Group, Inc.](https://hillgroupinc.com/) to perform data collection, cleaning, and analysis on College stress score of 4-year Not For-profit Colleges in Pennsylvnia. Following the algorithms and guidelines of 
+
 - **Hua Psych Survey Platform**
 
   UX Designer of the survey platform, this helps UW students publish their surveys!  
