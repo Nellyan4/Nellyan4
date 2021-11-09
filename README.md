@@ -1,5 +1,5 @@
 ![alt text](https://github.com/Nellyan4/Nellyan4/blob/master/ProfilePic.jpeg)
-<sub><sup>Photo taken on a rooftop near the University of Washington, Seattle, WA</sup></sub>
+<sub><sup>Photo took on a rooftop near the University of Washington, Seattle, WA</sup></sub>
 
 
 ### Greetings!!!
