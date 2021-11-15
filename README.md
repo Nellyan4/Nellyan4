@@ -7,7 +7,7 @@
 - 💜 I graduated from University of Washington, majored in Economics and minored in Informatics, go go Huskies!
 - ❤ I'm studying at Carnegie Mellon University, MSPPM-DA program, I'm probably the stupidest guy at CMU.
 - 🤔 I'm OK using R, SQL, python, like I am probably able to feed myself using these skills.
-- 🎸 I love bands! Big fan of Mandarin Indi Musics and Nirvana(Kurt Cobain fanboy)!
+- 🎸 I love bands! Big fan of Mandarin Indi Musics and Nirvana!
 
 
 ### Project Experiences
