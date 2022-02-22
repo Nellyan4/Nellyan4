@@ -8,6 +8,7 @@
 - ❤ I'm studying at Carnegie Mellon University, MSPPM-DA program, I'm probably the stupidest guy at CMU.
 - 🤔 I'm OK using R, SQL, python, like I am probably able to feed myself using these skills.
 - 🎸 I love bands! Big fan of Mandarin Indi Musics and Nirvana!
+- 🐱 Check out my cat [Duobao's NFT collections](https://opensea.io/collection/duobao)!
 
 
 ### Project Experiences
