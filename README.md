@@ -19,7 +19,7 @@
 
 - **Digitization and Modernization of Keystone Funeral Service**
 
-  Consulting for [Keystone Funeral Services](https://keystonefuneralservice.com/) on digitization and modernization. Perform qualitative and quantitative analysis on digital technologies and digital marketing aspects of funeral home industry. Offer recommendations on short-term and long-term strategy for the organization. [Access to the reports](https://github.com/Nellyan4/Keystone_consulting_reports)
+  Consulting for [Keystone Funeral Services](https://keystonefuneralservice.com/) on digitization and modernization. Perform qualitative and quantitative analysis on digital technologies and digital marketing aspects of funeral home industry. Offer recommendations on short-term and long-term strategy for the organization. [Access to the reports](https://github.com/Nellyan4/Keystone_consulting_reports).
 
 - **College Stress Test score**
   
