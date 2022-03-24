@@ -13,6 +13,10 @@
 
 ### Project Experiences
 
+- **Data analytics for minimum wage**
+ 
+  A [data visualization study on the minimum wage](https://github.com/Nellyan4/minimum_wage_study) in the U.S. Using data from multiple datasets, including minimum wages, unemployments, party affliations, and labor productivities, to create visualization and found interesting trends of the minimum wages in the U.S. The python ackage used for visualization is Altair.
+
 - **Digitization and Modernization of Keystone Funeral Service**
 
   Consulting for [Keystone Funeral Services](https://keystonefuneralservice.com/) on digitization and modernization. Perform qualitative and quantitative analysis on digital technologies and digital marketing aspects of funeral home industry. Offer recommendations on short-term and long-term strategy for the organization.
