@@ -13,6 +13,11 @@
 
 ### Project Experiences
 
+- **NYC City Bike Rideshare Study and Forecasting**
+
+  A [Machine Learning project](https://github.com/Nellyan4/Citibike_forecasting) that adds value to NYC Citibike to regarding bikes distribution and user marketing using data collected from CitiBike System Data. This project uses ML Pipeline and is trained by multiple Classification models. Trained model performance is over 100% than the baseline.
+
+
 - **Data analytics for minimum wage**
  
   A [data visualization study on the minimum wage](https://github.com/Nellyan4/minimum_wage_study) in the U.S. Using data from multiple datasets, including minimum wages, unemployments, party affliations, and labor productivities, to create visualization and found interesting trends of the minimum wages in the U.S. The python ackage used for visualization is Altair.
