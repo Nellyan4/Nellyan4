@@ -13,6 +13,10 @@
 
 ### Project Experiences
 
+- **CMU Capstone Project with Honda — Traffic Flow Estimation Using Vehicle Telematics Data**
+
+  This [project](https://medium.com/99p-labs/cmu-heinz-capstone-project-traffic-flow-estimation-using-vehicle-telematics-data-2cb984b30c2b) is to explore the possibilities of leveraging vehicle telematic data for the prediction of real-time traffic density, flow, and count in Columbus, Ohio. Traffic flow estimation using vehicle telematics data provided by Honda 99P Lab can provide valuable insights into the movement of vehicles on our roads and highways. By visualizing the result of the estimation, stakeholders can gain a better understanding of traffic patterns at the level of road segments, which can be used to improve Artificial Intelligence technologies and develop decision strategies to improve the safety of the current transportation systems.
+
 - **NYC City Bike Rideshare Study and Forecasting**
 
   A [Machine Learning project](https://github.com/Nellyan4/Citibike_forecasting) that adds value to NYC Citibike to regarding bikes distribution and user marketing using data collected from CitiBike System Data. This project uses ML Pipeline and is trained by multiple Classification models. Trained model performance is over 100% than the baseline.
